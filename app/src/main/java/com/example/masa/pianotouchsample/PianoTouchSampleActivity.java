@@ -8,7 +8,6 @@ import android.os.Bundle;
 import android.widget.ImageButton;
 import android.widget.LinearLayout;
 
-import jp.co.techfun.pianotouch.R;
 
 // ピアノ画面Activity
 public class PianoTouchSampleActivity extends Activity {
